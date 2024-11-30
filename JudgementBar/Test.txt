@@ -1,0 +1,6 @@
+Add folders
+- apps/judgementBar/resources (questions, highscores/leaderboard)
+
+Add html site
+- apps/judgementBar/index.html
+- ../styles and ../scripts
