@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs"); // Able to read and write to files
 let leaderboardList = document.getElementById("leaderboard--list");
 
 // Submit the text from the input box to be written to a file
@@ -26,7 +26,7 @@ function readFile(filename) {
 
 // Try writing the given data to the given file
 function writeFile(filename, text) {
-  fs.writeFile(filename, text (err) => {
+  fs.writeFile(filename, text, (err) => {
     if(err) {
       console.error(err);
       return;
