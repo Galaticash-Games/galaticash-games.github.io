@@ -6,9 +6,9 @@ function submitInput() {
   let text = inputBox.innerHTML;
 
   let filename = "testWrite";
-  readFile(filename);
+  console.log( readFile(filename));
   writeFile(filename, text);
-  readFile(filename);
+  console.log( readFile(filename));
 }
 
 // Try to read data from the given file
@@ -19,7 +19,7 @@ function readFile(filename) {
       return;
     }
     console.log("Read file: ");
-    console.log(data);
+    return data;
   });
 }
 
@@ -33,3 +33,50 @@ function writeFile(filename, text) {
     console.log("Successfully updated!");
   });
 }
+
+/*
+function getScores() {
+	// TODO: Read scores from a file
+	
+	let scoreList = [];
+	
+	// TEMP: List of score maps
+	for(let i = 0; i < 5; i++) {
+		let newScoreMap = new Map();
+		newScoreMap.set('name', "test"+i);
+		newScoreMap.set('score', i);
+		newScoreMap.set('date', `${i}${i}/${i}${i}/${i}${i}${i}${i}`);
+		
+		scoreList.push(newScoreMap);
+	}
+	
+	return scoreList;
+}
+
+function listScores() {
+	let scores = getScores();
+	
+	// From the first to last score,
+	for(let i = 0; i < scores.length; i++) {
+		let newScore = document.createElement("li");
+		newScore.classList.add("leaderboard--score");
+		newScore.id = "score" + (i + 1);
+		
+		// Create each part of the score's display
+		let scoreName = document.createElement("h4");
+		scoreName.innerHTML = scores[i].get('name');
+		
+		let scoreScore = document.createElement("h4");
+		scoreScore.innerHTML = scores[i].get('score');
+		
+		let scoreDate = document.createElement("h4");
+		scoreDate.innerHTML = scores[i].get('date');
+		
+		
+		// Connect the created elements
+		newScore.appendChild(scoreName);
+		newScore.appendChild(scoreScore);
+		newScore.appendChild(scoreDate);		
+		leaderboardList.appendChild(newScore);
+	}
+}*/
