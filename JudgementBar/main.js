@@ -5,7 +5,7 @@ function submitInput() {
   let inputBox = document.getElementById("test-input");
   let text = inputBox.innerHTML;
 
-  let filename = "testWrite;
+  let filename = "testWrite";
   readFile(filename);
   writeFile(filename, text);
   readFile(filename);
