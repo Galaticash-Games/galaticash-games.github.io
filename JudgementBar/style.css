@@ -1,1 +1,28 @@
+.root {
+  /* TODO: Add colors as variables */
+}
 
+/* The leaderboard */
+#leaderboard {
+	width: 80%;
+	padding: 10px;
+}
+
+/* Each leaderboard score */
+.leaderboard--score {
+	display: flex;
+	flex-direction: row;
+	background-color: white;
+	padding: 0px;
+	margin: 5px;
+}
+
+/* Each part of the leaderboard score */
+.leaderboard--score > h4 {
+	margin: 10px;
+}
+
+/* The three best scores */
+#score1, #score2, #score3 {
+	color: red;
+}
