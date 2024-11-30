@@ -1,0 +1,51 @@
+{
+    "Official": {
+      "Easy" : [
+        {"Question": "What is the first book in the Book of Mormon?",
+          "Answer": "Nephi",
+          "Fakes": ["Alma", "Mormon", "Moroni"],
+          "Source": "1st Nephi"},
+        {"Question": "Which book comes after Alma?",
+          "Answer": "Helaman",
+          "Fakes": ["3rd Nephi", "Moroni", "Ether"],
+          "Source": "Table of Contents"},
+        {"Question": "Who is Nephi's father?",
+          "Answer": "Lehi",
+          "Fakes": ["Alma", "Moroni", "Sam"],
+          "Source": "1st Nephi 1:5"},
+        {"Question": "How many of Helaman's Stripling Warriors died in battle?",
+          "Answer": "None",
+          "Fakes": ["Two", "Two hundred", "Two thousand"],
+          "Source": "Alma 56:56"},
+        {"Question": "Who killed Laban?",
+          "Answer": "Nephi",
+          "Fakes": ["Sam", "Laman", "Lemuel"],
+          "Source": "1st Nephi 4:18-19"}]
+      "Medium": [
+        {"Question": "How many sons did Lehi have?",
+          "Answer": "Six",
+          "Fakes": ["Three", "Four", "Five"],
+          "Source": "1st Nephi 2:5, 1st Nephi 18:7"},
+        {"Question": "Finish this sentence. \"Wickedness never was ____________\",
+          "Answer": "Happiness",
+          "Fakes": ["Godly", "Right", "Gladness"],
+          "Source": "Alma 41:10"},
+        {"Question": "In which book is the story of king Benjamin?",
+          "Answer": "Mosiah",
+          "Fakes": ["Alma", "Ether", "3rd Nephi"],
+          "Source": "Mosiah 1:1"}]
+      "Hard" : [
+        {"Question": "How many Anti-Christ's are in the Book of Mormon?",
+          "Answer": "Two",
+          "Fakes": ["Five", "Seven", "Three"],
+          "Source": "Alma 30, 3rd Nephi 7"},
+        {"Question": "Who had armor first?",
+          "Answer": "The Nephites",
+          "Fakes": ["The Lamanites", "The Zoramites", "The Jaredites"],
+          "Source": "Alma 43:19-21"},
+        {"Question": "What is the name of the book missing because Martin Harris lost the pages?",
+          "Answer": "The book of Lehi",
+          "Fakes": ["The book of Joseph", "The book of Mormon II", "The book of Benjamin"],
+          "Source": "D&C 10 Heading"}]   
+  }
+}
