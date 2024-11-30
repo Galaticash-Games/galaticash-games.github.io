@@ -1,4 +1,5 @@
 const fs = require("fs");
+let leaderboardList = document.getElementById("leaderboard--list");
 
 // Submit the text from the input box to be written to a file
 function submitInput() {
@@ -34,7 +35,7 @@ function writeFile(filename, text) {
   });
 }
 
-/*
+// Get Scores to put in the leaderboard
 function getScores() {
 	// TODO: Read scores from a file
 	
@@ -53,6 +54,7 @@ function getScores() {
 	return scoreList;
 }
 
+// List the retrieved scores in the leaderboard
 function listScores() {
 	let scores = getScores();
 	
@@ -79,4 +81,4 @@ function listScores() {
 		newScore.appendChild(scoreDate);		
 		leaderboardList.appendChild(newScore);
 	}
-}*/
+}
