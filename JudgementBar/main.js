@@ -38,6 +38,7 @@ function writeFile(filename, text) {
 // Get Scores to put in the leaderboard
 function getScores() {
 	// TODO: Read scores from a file
+	// let readData = readFile("highscores");
 	
 	let scoreList = [];
 	
@@ -60,6 +61,7 @@ function listScores() {
 	
 	// From the first to last score,
 	for(let i = 0; i < scores.length; i++) {
+		// Create a new list item
 		let newScore = document.createElement("li");
 		newScore.classList.add("leaderboard--score");
 		newScore.id = "score" + (i + 1);
@@ -73,7 +75,6 @@ function listScores() {
 		
 		let scoreDate = document.createElement("h4");
 		scoreDate.innerHTML = scores[i].get('date');
-		
 		
 		// Connect the created elements
 		newScore.appendChild(scoreName);
