@@ -1,9 +1,9 @@
 {
     "Official": {
-        "color": "FFFFFF",
+        "color": "#FFFFFF",
         "decks": {
             "Test": {
-                "color": "FEC942",
+                "color": "#FEC942",
                 "questions": [{
                         "question": "What is the name of the app?",
                         "answer": "Judgement Bar",
@@ -35,7 +35,7 @@
                 ]
             },
             "Easy": {
-                "color": "339922",
+                "color": "#339922",
                 "questions": [{
                         "question": "Nephi says there are \"But two churches only\" Who do they belong to?",
                         "answer": "Church of the Lamb of God and the Church of the Devil.",
@@ -499,7 +499,7 @@
                 ]
             },
             "Medium": {
-                "color": "EE7722",
+                "color": "#EE7722",
                 "questions": [{
                         "question": "Who was Pahoran?",
                         "answer": "A Nephite chief judge",
@@ -1044,7 +1044,7 @@
                 ]
             },
             "Hard": {
-                "color": "DD3322",
+                "color": "#DD3322",
                 "questions": [{
                         "question": "In which chapter do we find the allegory of the tame and wild olive trees?",
                         "answer": "Jacob 5",
