@@ -1044,7 +1044,7 @@
                 ]
             },
             "Hard": {
-                "color": "dd3322",
+                "color": 0xFFDD3322,
                 "questions": [{
                         "question": "In which chapter do we find the allegory of the tame and wild olive trees?",
                         "answer": "Jacob 5",
