@@ -1,27 +1,27 @@
 {
   "Test" : [
     {
-      "name": "My Score",
+      "name": "Helaman",
       "score": "100",
       "time": "11/22/2024"
     },
     {
-      "name": "Scorer",
+      "name": "Lemuel",
       "score": "50",
       "time": "11/22/2024"
     },
     {
-      "name": "I Won",
+      "name": "Alma",
       "score": "150",
       "time": "11/21/2024"
     },
     {
-      "name": "Winning",
+      "name": "Nephi",
       "score": "145",
       "time": "11/21/2024"
     },
     {
-      "name": "Test Win",
+      "name": "Lehi",
       "score": "200",
       "time": "11/21/2024"
     }
