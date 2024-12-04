@@ -1,6 +1,18 @@
 {
   "Test" : [
     {
+      "name": "Tester",
+      "score": "100",
+      "time": "11/22/2024"
+    },
+    {
+      "name": "Winner",
+      "score": "150",
+      "time": "11/22/2024"
+    },
+  ],
+  "Easy" : [
+    {
       "name": "Helaman",
       "score": "100",
       "time": "11/22/2024"
@@ -26,55 +38,53 @@
       "time": "11/21/2024"
     }
   ],
-  "Easy" : [
-    {
-      "name": "remote1.1",
-      "score": "1",
-      "time": "01/01/2000"
-    },
-    {
-      "name": "remote1.2",
-      "score": "2",
-      "time": "01/02/2000"
-    },
-    {
-      "name": "remote1.3",
-      "score": "3",
-      "time": "01/03/2000"
-    }
-  ],
   "Medium" : [
     {
-      "name": "remote2.1",
-      "score": "10",
-      "time": "01/01/2000"
+      "name": "Enos",
+      "score": "100",
+      "time": "11/22/2024"
     },
     {
-      "name": "remote2.2",
-      "score": "20",
-      "time": "01/02/2000"
+      "name": "Lemuel",
+      "score": "50",
+      "time": "11/22/2024"
     },
     {
-      "name": "remote2.3",
-      "score": "30",
-      "time": "01/03/2000"
+      "name": "Sam",
+      "score": "150",
+      "time": "11/21/2024"
+    },
+    {
+      "name": "Jacob",
+      "score": "145",
+      "time": "11/21/2024"
+    },
+    {
+      "name": "Moroni",
+      "score": "200",
+      "time": "11/21/2024"
     }
   ],
   "Hard" : [
     {
-      "name": "remote3.1",
+      "name": "Ether",
       "score": "100",
-      "time": "01/01/2000"
+      "time": "11/22/2024"
     },
     {
-      "name": "remote3.2",
+      "name": "King Noah",
+      "score": "50",
+      "time": "11/22/2024"
+    },
+    {
+      "name": "Samuel",
+      "score": "150",
+      "time": "11/21/2024"
+    },
+    {
+      "name": "Ammon",
       "score": "200",
-      "time": "01/02/2000"
-    },
-    {
-      "name": "remote3.3",
-      "score": "300",
-      "time": "01/03/2000"
+      "time": "11/21/2024"
     }
   ]
 }
