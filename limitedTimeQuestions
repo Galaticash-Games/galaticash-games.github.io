@@ -2,7 +2,7 @@
 "Expired": {
     "color": "#FEC942",
     "startDate" : "12/1/2024",
-    "endDate" : "12/10/2024",
+    "endDate" : "12/11/2024",
     "questions": [{
             "question": "What is the name of the app?",
             "answer": "Judgement Bar",
