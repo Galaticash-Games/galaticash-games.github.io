@@ -1,4 +1,12 @@
 {
+  "All" : [
+    {
+      "name": "Mormon",
+      "score": "100",
+      "time": "11/22/2024"
+    }
+
+  ]
   "Test" : [
     {
       "name": "Tester",
