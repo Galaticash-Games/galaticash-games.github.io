@@ -2,38 +2,6 @@
     "Official": {
         "color": "#FFFFFF",
         "decks": {
-            "Test": {
-                "color": "#FEC942",
-                "questions": [{
-                        "question": "What is the name of the app?",
-                        "answer": "Judgement Bar",
-                        "fakeAnswers": [
-                            "App",
-                            "Test",
-                            "Class"
-                        ],
-                        "source": "1st Nephi 14:10"
-                    }, {
-                        "question": "What programming language is this written in?",
-                        "answer": "Kotlin",
-                        "fakeAnswers": [
-                            "Java",
-                            "Android",
-                            "Swift"
-                        ],
-                        "source": "1st Nephi 14:10"
-                    }, {
-                        "question": "How is the data stored?",
-                        "answer": "JSON",
-                        "fakeAnswers": [
-                            "TXT",
-                            "Hardcoded",
-                            "XML"
-                        ],
-                        "source": "1st Nephi 14:10"
-                    }
-                ]
-            },
             "Easy": {
                 "color": "#339922",
                 "questions": [{
