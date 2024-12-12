@@ -1,20 +1,9 @@
 {
+"Official" : {
   "All" : [
     {
       "name": "Mormon",
       "score": "100",
-      "time": "11/22/2024"
-    }
-  ],
-  "Test" : [
-    {
-      "name": "Tester",
-      "score": "100",
-      "time": "11/22/2024"
-    },
-    {
-      "name": "Winner",
-      "score": "150",
       "time": "11/22/2024"
     }
   ],
@@ -94,4 +83,19 @@
       "time": "11/21/2024"
     }
   ]
+},
+"Limited" : {
+  "Test" : [
+    {
+      "name": "Tester",
+      "score": "100",
+      "time": "11/22/2024"
+    },
+    {
+      "name": "Winner",
+      "score": "150",
+      "time": "11/22/2024"
+    }
+  ]
+}
 }
