@@ -5,3 +5,4 @@ This is a mobile applcation currenlty in development. It is currently available 
 
 ### To Do
 - Create an AWS backend (server, database) to store account and leaderboard information for Judgement Bar
+- Edit GitHub Page to show current leaderboard (either from a file stored here or AWS)
