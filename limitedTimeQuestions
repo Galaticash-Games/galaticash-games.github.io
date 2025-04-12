@@ -45,7 +45,7 @@
                 "Test",
                 "Class"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "App Store"
         }, {
             "question": "What programming language is this written in?",
             "answer": "Kotlin",
@@ -54,7 +54,7 @@
                 "Android",
                 "Swift"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "_ Multiplatform"
         }, {
             "question": "How is the data stored?",
             "answer": "JSON",
@@ -63,7 +63,7 @@
                 "Hardcoded",
                 "XML"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "Dictionaries have a key and value"
         }
     ]
 },
@@ -72,32 +72,32 @@
     "startDate" : "12/1/2024",
     "endDate" : "12/31/2024",
     "questions": [{
-            "question": "What is the name of the app?",
-            "answer": "Judgement Bar",
+            "question": "What day is Christmas?",
+            "answer": "December 25th",
             "fakeAnswers": [
-                "App",
-                "Test",
-                "Class"
+                "December 24th",
+                "December 31st",
+                "December 1st"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "Christmas"
         }, {
-            "question": "What programming language is this written in?",
-            "answer": "Kotlin",
+            "question": "Which is a symbolism of the colors of a candy cane?",
+            "answer": "Red - blood of Christ, White - purity/Atonement",
             "fakeAnswers": [
-                "Java",
-                "Android",
-                "Swift"
+                "Red - setting sun, White - light of Christ",
+                "Red - Rudolph the red-nosed reindeer, White - the North Pole",
+                "Red - Poinsettia, White - snow"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "source TBD"
         }, {
-            "question": "How is the data stored?",
-            "answer": "JSON",
+            "question": "What event is celebrated on Christmas?",
+            "answer": "Birth of Christ",
             "fakeAnswers": [
-                "TXT",
-                "Hardcoded",
-                "XML"
+                "Winter break",
+                "Capitalism",
+                "Winter Solstice"
             ],
-            "source": "1st Nephi 14:10"
+            "source": "source TBD"
         }
     ]
 }
