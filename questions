@@ -1,0 +1,2112 @@
+{
+    "Questions": [{
+            "name": "Official",
+            "color": "#FFFFFF",
+            "decks": [{
+                    "name": "Easy",
+                    "color": "#339922",
+                    "questions": [{
+                            "question": "Nephi says there are \"But two churches only\" Who do they belong to?",
+                            "answer": "Church of the Lamb of God and the Church of the Devil.",
+                            "fakeAnswers": [
+                                "The world and God",
+                                "God and Government",
+                                "The Devil and the World"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 14:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What were the plates that Joseph Smith translated made of?",
+                            "answer": "Gold",
+                            "fakeAnswers": [
+                                "Brass",
+                                "Copper",
+                                "Steel"
+                            ],
+                            "source": {
+                                "text": "Testimony of the Prophet Joseph Smith part 7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the place where Joseph Smith found the Plates?",
+                            "answer": "On a hill  (Commorah)",
+                            "fakeAnswers": [
+                                "In a tomb",
+                                "A Library",
+                                "Hidden in a tree"
+                            ],
+                            "source": {
+                                "text": "JSH 1:51",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who killed Laban?",
+                            "answer": "Nephi",
+                            "fakeAnswers": [
+                                "Sam",
+                                "Laman",
+                                "Lemuel"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:18-19",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who told Joseph Smith where the plates were buried?",
+                            "answer": "Angel Moroni",
+                            "fakeAnswers": [
+                                "The Spirit",
+                                "Nephi",
+                                "Jesus"
+                            ],
+                            "source": {
+                                "text": "JSH 1:34",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who translated the Book of Mormon?",
+                            "answer": "Joseph Smith Jr.",
+                            "fakeAnswers": [
+                                "Emma Smith",
+                                "Brigham Young",
+                                "Joseph Smith Sr."
+                            ],
+                            "source": {
+                                "text": "JSH 1:66-67",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who were taught by their mothers, and did not doubt?",
+                            "answer": "Helaman's Stripling Warriors",
+                            "fakeAnswers": [
+                                "Lamanite warriors",
+                                "Teancum's soldiers",
+                                "The Jadeite army"
+                            ],
+                            "source": {
+                                "text": "Alma 56:47-48",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many sets of plates did Nephi make?",
+                            "answer": "Two",
+                            "fakeAnswers": [
+                                "One",
+                                "Four",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 9:1-6",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many of Helaman's Stripling Warriors died in battle?",
+                            "answer": "None",
+                            "fakeAnswers": [
+                                "Two",
+                                "Two hundred",
+                                "Two thousand"
+                            ],
+                            "source": {
+                                "text": "Alma 56:56",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What was recorded by Nephi on the \"small plates?\"",
+                            "answer": "An account of the ministry (spiritual things)",
+                            "fakeAnswers": [
+                                "A record of kings",
+                                "The finances of the people",
+                                "Laws of the people"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 9:1-6",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Were the Nephites and Lamanites part of the \"other sheep\" mentioned by Jesus?",
+                            "answer": "Yes",
+                            "fakeAnswers": [
+                                "No",
+                                "Maybe",
+                                "We don't know"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 15:21",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Why is it called \"The Book of  Mormon?\"",
+                            "answer": "Because Mormon abridged the record",
+                            "fakeAnswers": [
+                                "Joseph Smith liked the name",
+                                "Joseph asked Emma to name it",
+                                "An Angel named it"
+                            ],
+                            "source": {
+                                "text": "Words of Mormon 1:3-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Mistakes in the Book of Mormon are the mistakes of ____________?",
+                            "answer": "Men",
+                            "fakeAnswers": [
+                                "God",
+                                "Satan",
+                                "Angels"
+                            ],
+                            "source": {
+                                "text": "Title page, last Paragraph",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "From whom did Nephi get the brass plates?",
+                            "answer": "Laban and his servant Zoram",
+                            "fakeAnswers": [
+                                "King Zeddikiah",
+                                "Lehi",
+                                "Ishmael"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:20-24",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Nephi was _________ in stature?",
+                            "answer": "Large",
+                            "fakeAnswers": [
+                                "Small",
+                                "Wide",
+                                "Huge"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:31",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What book comes after Enos?",
+                            "answer": "Jarom",
+                            "fakeAnswers": [
+                                "Jacob",
+                                "Omni",
+                                "Ether"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which is the longest chapter (by number of verses) in the Book of Mormon?",
+                            "answer": "Jacob 5",
+                            "fakeAnswers": [
+                                "Alma 63",
+                                "2nd Nephi 32",
+                                "Jacob 7"
+                            ],
+                            "source": {
+                                "text": "Page 172",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who wrote the last book in the Book of Mormon?",
+                            "answer": "Moroni",
+                            "fakeAnswers": [
+                                "Nephi",
+                                "Joseph Smith",
+                                "Mormon"
+                            ],
+                            "source": {
+                                "text": "Moroni 1:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many books only have one chapter?",
+                            "answer": "Five: Enos, Jarom, Omni, Words of Mormon, and 4th Nephi",
+                            "fakeAnswers": [
+                                "One",
+                                "Two",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who cut off a bunch of arms?",
+                            "answer": "Ammon",
+                            "fakeAnswers": [
+                                "Aaron",
+                                "Teancum",
+                                "Moroni"
+                            ],
+                            "source": {
+                                "text": "Alma 17:37",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Why is it called the \"Book of Mormon\"?",
+                            "answer": "Because Mormon abridged the record.",
+                            "fakeAnswers": [
+                                "Emma Smith named it",
+                                "Joseph Smith came up with it",
+                                "There was no reason"
+                            ],
+                            "source": {
+                                "text": "Words of Mormon 1:3-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the full title of the Book of Mormon?",
+                            "answer": "The Book of Mormon, Another Testament of Jesus Christ",
+                            "fakeAnswers": [
+                                "The Book of Mormon, A Bible Replacement",
+                                "The Book of Mormon, A Golden Bible",
+                                "The Book of Mormon, A Record of the Nephites and Lamanites"
+                            ],
+                            "source": {
+                                "text": "Cover page",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did they call the ball or director that Lehi found outside his tent?",
+                            "answer": "Liahona",
+                            "fakeAnswers": [
+                                "Compass",
+                                "Gold Ball",
+                                "Magic 8 Ball"
+                            ],
+                            "source": {
+                                "text": "Alma 37:38",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which book comes after Alma?",
+                            "answer": "Helaman",
+                            "fakeAnswers": [
+                                "3rd Nephi",
+                                "Moroni",
+                                "Ether"
+                            ],
+                            "source": {
+                                "text": "Table of Contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What was the name of the Nephite capital city?",
+                            "answer": "Zarahemla",
+                            "fakeAnswers": [
+                                "Moronihah",
+                                "Gideon",
+                                "Bountiful"
+                            ],
+                            "source": {
+                                "text": "Helaman 1:27",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who wore loincloths to battle?",
+                            "answer": "The Lamanites",
+                            "fakeAnswers": [
+                                "Nephites",
+                                "Jacobites",
+                                "Zoramites"
+                            ],
+                            "source": {
+                                "text": "Alma 3:5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Did the people of Ammon join the Nephites?",
+                            "answer": "Yes",
+                            "fakeAnswers": [
+                                "No",
+                                "Only some of them",
+                                "Just the women and children"
+                            ],
+                            "source": {
+                                "text": "Alma 27 Chapter heading",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which people did Ammon teach?",
+                            "answer": "The Lamanites",
+                            "fakeAnswers": [
+                                "The Nephites",
+                                "Jaredites",
+                                "Jacobites"
+                            ],
+                            "source": {
+                                "text": "Alma 17:19",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many sons did Lehi have?",
+                            "answer": "Six",
+                            "fakeAnswers": [
+                                "Nine",
+                                "Four",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 2:5, 1st Nephi 18:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many books are there in the Book of Mormon?",
+                            "answer": "15",
+                            "fakeAnswers": [
+                                "20",
+                                "10",
+                                "13"
+                            ],
+                            "source": {
+                                "text": "Table of Contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who destroyed the Nephites?",
+                            "answer": "The Lamanites",
+                            "fakeAnswers": [
+                                "The Gadianton Robbers",
+                                "Laban",
+                                "Natural disasters"
+                            ],
+                            "source": {
+                                "text": "Moroni 8:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How was Abinadi killed?",
+                            "answer": "By fire",
+                            "fakeAnswers": [
+                                "With a sword",
+                                "A Club",
+                                "Bow and Arrows"
+                            ],
+                            "source": {
+                                "text": "Mosiah 17:15",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who is Nephi's father?",
+                            "answer": "Lehi",
+                            "fakeAnswers": [
+                                "Alma",
+                                "Moroni",
+                                "Sam"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 1:5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which book comes after Omni?",
+                            "answer": "Words of Mormon",
+                            "fakeAnswers": [
+                                "Words of Mormon",
+                                "Jarom",
+                                "Omni"
+                            ],
+                            "source": {
+                                "text": "Table of Contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How did Nephi stop the storm?",
+                            "answer": "He prayed",
+                            "fakeAnswers": [
+                                "He controlled the weather",
+                                "He did a rain dance in reverse",
+                                "He commanded it to be calm"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 18:21",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many Nephite disciples are still on the earth?",
+                            "answer": "Three",
+                            "fakeAnswers": [
+                                "Two",
+                                "Six",
+                                "Four"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 28:4-7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Were the Stripling Warriors ever wounded in battle?",
+                            "answer": "Yes, but not killed",
+                            "fakeAnswers": [
+                                "No",
+                                "Only a few",
+                                "They all died"
+                            ],
+                            "source": {
+                                "text": "Alma 57:25",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who made the \"Title of Liberty\"?",
+                            "answer": "Captain Moroni",
+                            "fakeAnswers": [
+                                "Teancum",
+                                "Helaman",
+                                "Nephi"
+                            ],
+                            "source": {
+                                "text": "Alma 46:11-13",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was Teancum?",
+                            "answer": "A Nephite soldier",
+                            "fakeAnswers": [
+                                "A prophet",
+                                "A chief Judge",
+                                "A Lamanite General"
+                            ],
+                            "source": {
+                                "text": "Alma 62:3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What was recorded on the large plates of Nephi?",
+                            "answer": "History",
+                            "fakeAnswers": [
+                                "Jokes",
+                                "Spiritual things",
+                                "Slang words from their time"
+                            ],
+                            "source": {
+                                "text": "Jacob 1:2-3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which Alma \"Went about destroying the Church\"?",
+                            "answer": "Alma the younger",
+                            "fakeAnswers": [
+                                "Alma was always righteous",
+                                "Alma The Elder",
+                                "Alma Sr."
+                            ],
+                            "source": {
+                                "text": "Mosiah 27:10,16 Chapter heading",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is Alma's first name?",
+                            "answer": "Alma",
+                            "fakeAnswers": [
+                                "Helaman",
+                                "Brad",
+                                "David"
+                            ],
+                            "source": {
+                                "text": "Alma",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many Books of Nephi are in the Book of Mormon?",
+                            "answer": "Four",
+                            "fakeAnswers": [
+                                "One",
+                                "Six",
+                                "Five"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What were the plates that Nephi obtained from Laban made of?",
+                            "answer": "Brass",
+                            "fakeAnswers": [
+                                "Gold",
+                                "Steel",
+                                "Paper"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 3:3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who buried the plates for Joseph Smith to find?",
+                            "answer": "Moroni",
+                            "fakeAnswers": [
+                                "Mormon",
+                                "Nephihah",
+                                "Ether"
+                            ],
+                            "source": {
+                                "text": "Moroni 10:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "\"The Book of Mormon is the _____________ of our religion\"?",
+                            "answer": "Keystone",
+                            "fakeAnswers": [
+                                "Cornerstone",
+                                "Glue",
+                                "Proof"
+                            ],
+                            "source": {
+                                "text": "Introduction Part 6",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who says \"I will go and do the things which the Lord hath commanded\"",
+                            "answer": "Nephi",
+                            "fakeAnswers": [
+                                "Sam",
+                                "Laman",
+                                "Lemuel"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 3:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who stopped Laman and Lemuel from beating Nephi and Sam?",
+                            "answer": "An Angel",
+                            "fakeAnswers": [
+                                "Lehi",
+                                "Bob",
+                                "Zoram"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 3:29",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What does the Iron Rod represent?",
+                            "answer": "The word of God",
+                            "fakeAnswers": [
+                                "Nothing in particular",
+                                "The love of God",
+                                "Obedience"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 11:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "\"I Nephi, having been born of ________ __________?\"",
+                            "answer": "Goodly Parents",
+                            "fakeAnswers": [
+                                "Good Parents",
+                                "Adequate parents",
+                                "Horrible Parents"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 1:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which of Nephi's brothers murmured?",
+                            "answer": "Laman and Lemuel",
+                            "fakeAnswers": [
+                                "Sam and Lemuel",
+                                "Laman and Jacob",
+                                "Joseph and Sam"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 2:12",
+                                "url": ""
+                            }
+                        }
+                    ]
+                }, {
+                    "name": "Medium",
+                    "color": "#EE7722",
+                    "questions": [{
+                            "question": "Who was Pahoran?",
+                            "answer": "A Nephite chief judge",
+                            "fakeAnswers": [
+                                "A Nephite soldier",
+                                "A Laminate soldier",
+                                "A king"
+                            ],
+                            "source": {
+                                "text": "Alma 51:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Did the Nephites know how to use cement?",
+                            "answer": "Yes, they were \"expert\"",
+                            "fakeAnswers": [
+                                "No",
+                                "Only a little",
+                                "Of course not"
+                            ],
+                            "source": {
+                                "text": "Helaman 3:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who did Nephi prophesy killed the chief judge in 3rd Nephi?",
+                            "answer": "The judge's brother",
+                            "fakeAnswers": [
+                                "Himself",
+                                "Gaddianton",
+                                "His servants"
+                            ],
+                            "source": {
+                                "text": "Helaman 8:27",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name all the books in the Book of Mormon?",
+                            "answer": "1st, 2nd Nephi, Jacob, Enos, Jarom, Omni, Words of Mormon, Mosiah, Alma, Helaman, 3rd, 4th Nephi, Mormon, Ether, Moroni",
+                            "fakeAnswers": [
+                                "1st, 2nd Nephi, Jacob, Enos, Jarom, Omni, Words of Mormon, Mosiah, Alma, Helaman, 4th, 3rd Nephi, Mormon, Ether, Moroni",
+                                "1st, 2nd Nephi, Jacob, Enos, Jarom, Omni, Mosiah, Alma, Words Of Mormon, Helaman, 3rd, 4th Nephi, Mormon, Ether, Moroni",
+                                "1st, 2nd Nephi, Enos, Jarom, Jacob, Omni, Words of Mormon, Mosiah, Alma, Helaman, 3rd, 4th Nephi, Mormon, Ether, Moroni"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who tied Nephi up on the ship?",
+                            "answer": "Laman and Lemuel",
+                            "fakeAnswers": [
+                                "Sam and Lemuel",
+                                "Lehi and Sariah",
+                                "Lemuel and Jacob"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 18:11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did the brother of Jared bring the Lord to light the barges?",
+                            "answer": "16 small stones",
+                            "fakeAnswers": [
+                                "Light bulbs",
+                                "Glow in the dark stars",
+                                "Large glass balls"
+                            ],
+                            "source": {
+                                "text": "Ether 3:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was going to kill king Noah until the Lamanites attacked?",
+                            "answer": "Gideon",
+                            "fakeAnswers": [
+                                "Abinadi",
+                                "One of his priests",
+                                "His son"
+                            ],
+                            "source": {
+                                "text": "Mosiah 19:4-8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who warned the people at the waters of Mormon to flee?",
+                            "answer": "The Lord",
+                            "fakeAnswers": [
+                                "A guard",
+                                "One of the priests",
+                                "A concerned citizen"
+                            ],
+                            "source": {
+                                "text": "Mosiah 23:1, 18:34",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How did Nephi get a wife?",
+                            "answer": "He \"Took unto himself a daughter of Ishmael to wife\"",
+                            "fakeAnswers": [
+                                "Dated for a long time",
+                                "He never married",
+                                "An arranged marriage"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 16:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who is Enos's father?",
+                            "answer": "Jacob",
+                            "fakeAnswers": [
+                                "Nephi",
+                                "Omni",
+                                "Jarom"
+                            ],
+                            "source": {
+                                "text": "Jacob 7:27",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the two missionary sons of Helaman?",
+                            "answer": "Nephi and Lehi",
+                            "fakeAnswers": [
+                                "Lehi and Sam",
+                                "Alma and Amulek",
+                                "Nephi and Jacob"
+                            ],
+                            "source": {
+                                "text": "Helaman 5:4-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How did the Lord \"ease the burdens\" of Limhi's people?",
+                            "answer": "He strengthened them",
+                            "fakeAnswers": [
+                                "He made the burdens lighter",
+                                "He made the guards more sympathetic",
+                                "He got them out of bondage"
+                            ],
+                            "source": {
+                                "text": "Mosiah 24:15",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who did the daughter of Jared betray?",
+                            "answer": "Her Father and king",
+                            "fakeAnswers": [
+                                "Jared",
+                                "The queen",
+                                "Herself"
+                            ],
+                            "source": {
+                                "text": "Ether 8:8-13",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where does Alma teach the plan of salvation?",
+                            "answer": "Alma 40-41",
+                            "fakeAnswers": [
+                                "Alma 20-22",
+                                "Mosiah 8-10",
+                                "Alma 50-53"
+                            ],
+                            "source": {
+                                "text": "Alma 40-41",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who took King Noah's place as king?",
+                            "answer": "Limhi",
+                            "fakeAnswers": [
+                                "Zeniff",
+                                "One of the priests",
+                                "One of his guards"
+                            ],
+                            "source": {
+                                "text": "Mosiah 19:26",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the wicked king to whom Abinadi preached?",
+                            "answer": "Noah",
+                            "fakeAnswers": [
+                                "Limhi",
+                                "Amalakiah",
+                                "Amaron"
+                            ],
+                            "source": {
+                                "text": "Mosiah 13:5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which book is the story of king Benjamin?",
+                            "answer": "Mosiah",
+                            "fakeAnswers": [
+                                "Alma",
+                                "Helaman",
+                                "3rd Nephi"
+                            ],
+                            "source": {
+                                "text": "Mosiah 1:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the king that Ammon taught?",
+                            "answer": "Lamoni",
+                            "fakeAnswers": [
+                                "Limhi",
+                                "Laman",
+                                "Lemuel"
+                            ],
+                            "source": {
+                                "text": "Alma 18:18",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where did Nephi's brothers wait while he got the brass plates?",
+                            "answer": "Outside the walls of the city",
+                            "fakeAnswers": [
+                                "In a cave",
+                                "At their home",
+                                "At a friends house"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which big Nephite city burned when Christ died?",
+                            "answer": "Zarahemla",
+                            "fakeAnswers": [
+                                "Moronihah",
+                                "Gid",
+                                "Bountiful"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 8:8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How long were the sons of Mosiah and Ammon on their mission?",
+                            "answer": "14 years",
+                            "fakeAnswers": [
+                                "2 years",
+                                "10 years",
+                                "20 years"
+                            ],
+                            "source": {
+                                "text": "Alma 17:4",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many chapters are in Alma?",
+                            "answer": "63",
+                            "fakeAnswers": [
+                                "59",
+                                "36",
+                                "1"
+                            ],
+                            "source": {
+                                "text": "Alma, Pages 367-368",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who showed Nephi how to build the ship?",
+                            "answer": "The Lord",
+                            "fakeAnswers": [
+                                "His Father",
+                                "Laman",
+                                "He read how in the records"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 17:8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many pages are there in the Book of Mormon?",
+                            "answer": "531",
+                            "fakeAnswers": [
+                                "467",
+                                "592",
+                                "614"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Moroni saw our day, what did he say the most common sin was?",
+                            "answer": "Pride",
+                            "fakeAnswers": [
+                                "Sexual sin",
+                                "Theft",
+                                "Greed"
+                            ],
+                            "source": {
+                                "text": "Mormon 8:36",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where do we find \"Moroni's Promise\"?",
+                            "answer": "Moroni 10:3-5",
+                            "fakeAnswers": [
+                                "Moroni 9:3",
+                                "Mormon 3:10",
+                                "Moroni 10:15-20"
+                            ],
+                            "source": {
+                                "text": "Moroni 10:3-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which book and chapter does Jesus Christ appear to the Nephites?",
+                            "answer": "3rd Nephi 11",
+                            "fakeAnswers": [
+                                "Ether 6",
+                                "Mormon 14",
+                                "4th Nephi 3"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many did Alma baptize at the waters of Mormon?",
+                            "answer": "204",
+                            "fakeAnswers": [
+                                "250",
+                                "150",
+                                "105"
+                            ],
+                            "source": {
+                                "text": "Mosiah 18:16",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What was the condition upon which the Liahona operated?",
+                            "answer": "\"The heed they gave unto it\"",
+                            "fakeAnswers": [
+                                "Faith",
+                                "Daily study",
+                                "Prayer"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 16:28",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "True or false: In the early days of the Church missionaries sold copies of the Book of Mormon?",
+                            "answer": "True",
+                            "fakeAnswers": [
+                                "False",
+                                "Yes",
+                                "No"
+                            ],
+                            "source": {
+                                "text": "Church History \"Early missionaries\"",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who held General Conference in the Book of Mormon?",
+                            "answer": "King Benjamin",
+                            "fakeAnswers": [
+                                "Mosiah",
+                                "Alma",
+                                "Nephi"
+                            ],
+                            "source": {
+                                "text": "Mosiah 2:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was Alma's companion to teach the people of Amonihah?",
+                            "answer": "Amulek",
+                            "fakeAnswers": [
+                                "Zoram",
+                                "Helaman",
+                                "Lehi"
+                            ],
+                            "source": {
+                                "text": "Alma 8:29",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the Lamanite who stood on a wall preaching to the Nephites?",
+                            "answer": "Samuel",
+                            "fakeAnswers": [
+                                "Helaman",
+                                "Teancum",
+                                "Laman"
+                            ],
+                            "source": {
+                                "text": "Helaman 13:1-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where were Jacob and Joseph born?",
+                            "answer": "The wilderness",
+                            "fakeAnswers": [
+                                "Jerusalem",
+                                "The promised land",
+                                "On the ship"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 18:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which book is the story of Abinadi?",
+                            "answer": "Mosiah",
+                            "fakeAnswers": [
+                                "Alma",
+                                "Helaman",
+                                "Enos"
+                            ],
+                            "source": {
+                                "text": "Mosiah 11:26",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the name of Laban's servant?",
+                            "answer": "Zoram",
+                            "fakeAnswers": [
+                                "Laman",
+                                "Ishmael",
+                                "Joseph"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:35",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name Lehi's sons in order.",
+                            "answer": "Laman, Lemuel, Sam, Nephi, Jacob, Joseph",
+                            "fakeAnswers": [
+                                "Lemuel, Laman, Sam, Nephi, Joseph, Jacob",
+                                "Laman, Lemuel, Sam, Nephi, Joseph, Jacob",
+                                "Lemuel, Laman, Nephi, Sam, Jacob, Joseph"
+                            ],
+                            "source": {
+                                "text": "1st Nephi introduction, 18:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who brought Deseret (honeybees) to the promised land?",
+                            "answer": "Jaredites",
+                            "fakeAnswers": [
+                                "Nephi",
+                                "Hagoth",
+                                "Zoram"
+                            ],
+                            "source": {
+                                "text": "Ether 2:3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did Lehi name after Lemuel?",
+                            "answer": "A valley",
+                            "fakeAnswers": [
+                                "A river",
+                                "A ship",
+                                "A camel"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 2:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Why did Mormon \"utterly refuse\" to lead the people?",
+                            "answer": "They were in open rebellion against God",
+                            "fakeAnswers": [
+                                "They were terrible at battle",
+                                "He was sick",
+                                "They were very aggressive"
+                            ],
+                            "source": {
+                                "text": "Mormon 3:11-12",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who had armor first?",
+                            "answer": "The Nephites",
+                            "fakeAnswers": [
+                                "The Lamanites",
+                                "The Zoramites",
+                                "The Jaredites"
+                            ],
+                            "source": {
+                                "text": "Alma 43:19-21",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How did the Nephites get their prisoners out of the Lamanite city?",
+                            "answer": "They gave the guards extra wine and snuck in while they were drunk",
+                            "fakeAnswers": [
+                                "They killed all the guards",
+                                "They snuck the people out while the guards were on a break",
+                                "They never did get the people out"
+                            ],
+                            "source": {
+                                "text": "Alma 55:8-24",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who tells Ammon that he is being boastful?",
+                            "answer": "Aaron, his brother",
+                            "fakeAnswers": [
+                                "Omner",
+                                "Joseph",
+                                "Nephi"
+                            ],
+                            "source": {
+                                "text": "Alma 26:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was Zeniff?",
+                            "answer": "The king before king Noah",
+                            "fakeAnswers": [
+                                "The king after Noah",
+                                "A nephite Judge",
+                                "A Wicked Man"
+                            ],
+                            "source": {
+                                "text": "Mosiah 9:1-3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "The Book of Mormon translation stopped for a time, why was the power taken from Joseph Smith?",
+                            "answer": "He and Emma had an argument",
+                            "fakeAnswers": [
+                                "Joseph misplaced the plates",
+                                "Joseph took a vacation",
+                                "The plates were stolen for a time then returned"
+                            ],
+                            "source": {
+                                "text": "Church History",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How long did Ammon wait for king Lamoni to answer him?",
+                            "answer": "An hour",
+                            "fakeAnswers": [
+                                "A day",
+                                "A half hour",
+                                "30 seconds"
+                            ],
+                            "source": {
+                                "text": "Alma 18:14",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did Lehi name after Laman?",
+                            "answer": "A river",
+                            "fakeAnswers": [
+                                "A valley",
+                                "A city",
+                                "A Hill"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 2:9",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was sent by king Noah to kill Alma and his followers?",
+                            "answer": "His guard",
+                            "fakeAnswers": [
+                                "His priests",
+                                "His whole army",
+                                "A select band of elite soldiers"
+                            ],
+                            "source": {
+                                "text": "Mosiah 18:33",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did wicked king Noah do when the Lamanites attacked?",
+                            "answer": "Led the army on retreat leaving their families in dange",
+                            "fakeAnswers": [
+                                "Fought back and won",
+                                "Took his whole people to another land",
+                                "Sent the women and children away while the men stayed to fight"
+                            ],
+                            "source": {
+                                "text": "Mosiah 19:11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was the commander of the stripling warriors?",
+                            "answer": "Helaman",
+                            "fakeAnswers": [
+                                "Teancum",
+                                "Pahoran",
+                                "Mormon"
+                            ],
+                            "source": {
+                                "text": "Alma 56:1-3",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many arms did Aaron cut off defending the king's sheep?",
+                            "answer": "None. That was Ammon",
+                            "fakeAnswers": [
+                                "Twelve",
+                                "Ten",
+                                "None, that was Omner"
+                            ],
+                            "source": {
+                                "text": "Trick Question: Alma 17-27",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was the leader of the band of robbers in Helaman?",
+                            "answer": "Gaddianton",
+                            "fakeAnswers": [
+                                "Zemnariahah",
+                                "Zenos",
+                                "Amalikiah"
+                            ],
+                            "source": {
+                                "text": "Helaman 6:37",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was Ether?",
+                            "answer": "A Jaredite Prophet",
+                            "fakeAnswers": [
+                                "A nephite warrior",
+                                "A Nephite Captain",
+                                "A Jadeite captain"
+                            ],
+                            "source": {
+                                "text": "Ether 12:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who kidnapped Lamanite daughters?",
+                            "answer": "King Noah's wicked priests",
+                            "fakeAnswers": [
+                                "Nephites",
+                                "Jacobites",
+                                "Zoramites"
+                            ],
+                            "source": {
+                                "text": "Mosiah 20:1-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How long was the land dark for the sign of Christ's death?",
+                            "answer": "Three days",
+                            "fakeAnswers": [
+                                "One day",
+                                "Two days",
+                                "A week"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 8:20-23",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How did king Noah die?",
+                            "answer": "By fire",
+                            "fakeAnswers": [
+                                "By sword",
+                                "Poisoned",
+                                "Old age"
+                            ],
+                            "source": {
+                                "text": "Mosiah 19:20",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which Alma was wicked king Noah's priest?",
+                            "answer": "Alma the elder",
+                            "fakeAnswers": [
+                                "Alma the Younger",
+                                "Alma the chief judge",
+                                "Alma the king"
+                            ],
+                            "source": {
+                                "text": "Mosiah 27:8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the first doctrine Christ taught the Nephites after introducing himself?",
+                            "answer": "Baptism by proper authority",
+                            "fakeAnswers": [
+                                "Faith in Jesus Christ",
+                                "Enduring to the end",
+                                "Repentance"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 11:21-27",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What does the tree of life represent?",
+                            "answer": "The love of God",
+                            "fakeAnswers": [
+                                "The word of God",
+                                "Eternal life",
+                                "Salvation"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 11:21-22",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which book was the story of Ammon?",
+                            "answer": "Alma 17-27",
+                            "fakeAnswers": [
+                                "Alma 32-35",
+                                "Mosiah 12-17",
+                                "Ether 6-9"
+                            ],
+                            "source": {
+                                "text": "Alma 17-27",
+                                "url": ""
+                            }
+                        }
+                    ]
+                }, {
+                    "name": "Hard",
+                    "color": "#DD3322",
+                    "questions": [{
+                            "question": "In which chapter do we find the allegory of the tame and wild olive trees?",
+                            "answer": "Jacob 5",
+                            "fakeAnswers": [
+                                "Jacob 7",
+                                "Jacob 3",
+                                "Jacob 1"
+                            ],
+                            "source": {
+                                "text": "Jacob 5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many pages did Martin Harris lose?",
+                            "answer": "116",
+                            "fakeAnswers": [
+                                "110",
+                                "156",
+                                "100"
+                            ],
+                            "source": {
+                                "text": "D&C 3 heading",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the name of the city that was destroyed and renamed \"Desolation of Nehors\"?",
+                            "answer": "Amonihah",
+                            "fakeAnswers": [
+                                "Bountiful",
+                                "Lehi",
+                                "Moronihah"
+                            ],
+                            "source": {
+                                "text": "Alma 16:11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Alma spoke to each of his children, how many chapters were for Helaman?",
+                            "answer": "Two",
+                            "fakeAnswers": [
+                                "One",
+                                "None, Hellman was not one of the sons",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "Alma 36-37",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who sailed away on ships from the Nephites?",
+                            "answer": "Hagoth",
+                            "fakeAnswers": [
+                                "Nephi",
+                                "Nehor",
+                                "Joseph"
+                            ],
+                            "source": {
+                                "text": "Alma 63:5-8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Snow is mentioned twice in the Book of Mormon. By Isaiah and who else?",
+                            "answer": "Nephi",
+                            "fakeAnswers": [
+                                "Alma",
+                                "Moroni",
+                                "Ether"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 11:8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the two wicked Lamanite kings/brothers killed by Teancum?",
+                            "answer": "Amalikiah, Amaron",
+                            "fakeAnswers": [
+                                "Seezoram and Limhi",
+                                "Amaron and Aaron",
+                                "Amalakiah and Laman"
+                            ],
+                            "source": {
+                                "text": "Alma 51:33-34 Alma 62:36",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the six women mentioned by name in the Book of Mormon?",
+                            "answer": "1-Sariah, 2-Mary, 3-Eve, 4-Abish, 5-Isabelle, 6-Sarah",
+                            "fakeAnswers": [
+                                "1-Sariah, 2-Mary, 3-Eve, 4-Abish, 5-Jezabelle, 6-Ester",
+                                "1-Sariah, 2-Jessica, 3-Rachel, 4-Abish, 5-Isabelle, 6-Sarah",
+                                "1-Sariah, 2-Mary, 3-Janet, 4-Abish, 5-Isabelle, 6-Sarah"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 5:1, Mosiah 3:8, 2nd Nephi 2:18, Alma 19:16, Alma 39:3, 2nd Nephi 8:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Finish this sentence. \"Speedy was the flight of ________________\"",
+                            "answer": "Kishkumen",
+                            "fakeAnswers": [
+                                "Gaddianton",
+                                "Kohor",
+                                "Amaron"
+                            ],
+                            "source": {
+                                "text": "Helaman 1:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many words long are the two shortest verses in the Book of Mormon?",
+                            "answer": "Four words each",
+                            "fakeAnswers": [
+                                "Six words each",
+                                "Two words each",
+                                "Three words each"
+                            ],
+                            "source": {
+                                "text": "Alma 18:27, or Alma 11:29",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the last two Jaredites",
+                            "answer": "Ether and Coriantomer",
+                            "fakeAnswers": [
+                                "Coriantomer and Shiz",
+                                "Ether and Shiz",
+                                "Jared and Coriantomer"
+                            ],
+                            "source": {
+                                "text": "Ether 15:31-33",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where did the people of Nephi find him praying?",
+                            "answer": "In his garden tower",
+                            "fakeAnswers": [
+                                "In his house",
+                                "At a Church",
+                                "On the road"
+                            ],
+                            "source": {
+                                "text": "Helaman 7:10-11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was king of Judah when Lehi left Jerusalem?",
+                            "answer": "Zedekiah",
+                            "fakeAnswers": [
+                                "Judah",
+                                "Joseph",
+                                "Laban"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 1:4",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the Lamanite leader that came down the mountain to Amalikiah and was \"poisoned by degrees that he died\"",
+                            "answer": "Lehonti",
+                            "fakeAnswers": [
+                                "Lamuel",
+                                "Samuel",
+                                "Helaman"
+                            ],
+                            "source": {
+                                "text": "Alma 47:18",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapters does Nephi build the ship?",
+                            "answer": "1st Nephi 17-18",
+                            "fakeAnswers": [
+                                "1st Nephi 12-15",
+                                "1st Nephi 8-10",
+                                "1st Nephi 18-20"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 17-18",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many chapters are there in the Book of Mormon?",
+                            "answer": "239",
+                            "fakeAnswers": [
+                                "258",
+                                "210",
+                                "232"
+                            ],
+                            "source": {
+                                "text": "Table of contents",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Alma spoke to his children, how many chapters are dedicated to Corianton?",
+                            "answer": "Four",
+                            "fakeAnswers": [
+                                "One",
+                                "Three",
+                                "Two"
+                            ],
+                            "source": {
+                                "text": "Alma 39-42",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Lamoni's household falls to the earth, who tries to kill Ammon?",
+                            "answer": "The brother of the leader of the band that scattered the flocks",
+                            "fakeAnswers": [
+                                "One of the kings servants",
+                                "The queen",
+                                "A soldier"
+                            ],
+                            "source": {
+                                "text": "Alma 19:22",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many \"Anti-Nephi-Lehi's\" were killed after burying their  weapons?",
+                            "answer": "1,005",
+                            "fakeAnswers": [
+                                "1,000",
+                                "2,000",
+                                "2,505"
+                            ],
+                            "source": {
+                                "text": "Alma 24:22",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where in the Book of Mormon can we find the Sacrament prayers?",
+                            "answer": "Moroni 4-5",
+                            "fakeAnswers": [
+                                "Momon 6",
+                                "Alma 23-24",
+                                "Moroni 9-10"
+                            ],
+                            "source": {
+                                "text": "Moroni 4-5",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many stripling warriors were there in total?",
+                            "answer": "2,060",
+                            "fakeAnswers": [
+                                "2,000",
+                                "3,000",
+                                "2,080"
+                            ],
+                            "source": {
+                                "text": "Alma 53:22, Alma 57:6",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How old was Mormon when Amaron hid up the records?",
+                            "answer": "10",
+                            "fakeAnswers": [
+                                "20",
+                                "30",
+                                "8"
+                            ],
+                            "source": {
+                                "text": "Mormon 1:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Mormon saw Christ at what age?",
+                            "answer": "15",
+                            "fakeAnswers": [
+                                "20",
+                                "18",
+                                "12"
+                            ],
+                            "source": {
+                                "text": "Mormon 1:15",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Nephi finds Laban passed out, what is the first thing he talks about?",
+                            "answer": "Laban's sword",
+                            "fakeAnswers": [
+                                "Laban's clothes",
+                                "His fear of getting caught",
+                                "Laban's beard"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 4:9",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many chapters does Christ teach from the bible?",
+                            "answer": "6",
+                            "fakeAnswers": [
+                                "20",
+                                "10",
+                                "3"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 12-14, 22, 24-25, 3 Matthew, 1 Isaiah, 2 Malachi",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the three missionary sons of Mosiah that went with Ammon to teach among the Lamanites.",
+                            "answer": "Aaron, Omner, Himni",
+                            "fakeAnswers": [
+                                "Aaron, Himni, Samuel",
+                                "Himni, Nephi, Aaron",
+                                "Omner, Aaron, Gideon"
+                            ],
+                            "source": {
+                                "text": "Mosiah 27:34",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What are the last recorded words of Nephi in 2nd Nephi?",
+                            "answer": "\"For thus hath the Lord commanded me, and I must obey\"",
+                            "fakeAnswers": [
+                                "Amen",
+                                "In The Name of Jesus Christ, Amen",
+                                "And thus I end my record"
+                            ],
+                            "source": {
+                                "text": "2nd Nephi 33:15",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "From reading the brass plates, Lehi discovers that they are descendants of whom?",
+                            "answer": "Joseph who was sold into Egypt",
+                            "fakeAnswers": [
+                                "Adam and Eve",
+                                "Abraham",
+                                "Zedikiah"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 5:14",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the name of the waters at which Ammon defended king Lamoni's sheep?",
+                            "answer": "Sebus",
+                            "fakeAnswers": [
+                                "Aaron",
+                                "Lamoni",
+                                "Samus"
+                            ],
+                            "source": {
+                                "text": "Alma 17:26",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "The bow that Nephi broke was made from what material?",
+                            "answer": "Fine steel",
+                            "fakeAnswers": [
+                                "Wood",
+                                "Plastic",
+                                "Bone"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 16:18",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many Book of Mormon chapters are \"Compare to Isaiah __\"?",
+                            "answer": "20",
+                            "fakeAnswers": [
+                                "30",
+                                "22",
+                                "17"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 20-21, 2nd Nephi 12-24, 27, 3rd Nephi 20, 22, Mosiah 14",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What did the Zoramites call the raised platform from which they prayed?",
+                            "answer": "Rameumptom",
+                            "fakeAnswers": [
+                                "Podium",
+                                "The Elect pedestal",
+                                "Liahona"
+                            ],
+                            "source": {
+                                "text": "Alma 31:21",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many days did it take the Lamanite army to destroy Amonihah?",
+                            "answer": "One day",
+                            "fakeAnswers": [
+                                "A week",
+                                "A month",
+                                "Ten Days"
+                            ],
+                            "source": {
+                                "text": "Alma 16:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many days were the people of Jared in the barges?",
+                            "answer": "344",
+                            "fakeAnswers": [
+                                "365",
+                                "310",
+                                "372"
+                            ],
+                            "source": {
+                                "text": "Ether 6:11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "After losing their riches to Laban, did Laman and Lemuel beat both Nephi AND Sam, or just Nephi with a rod?",
+                            "answer": "Sam and Nephi",
+                            "fakeAnswers": [
+                                "Just Nephi",
+                                "Just Sam",
+                                "Neither"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 3:28",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Finish this sentence. \"Wickedness never was ____________\"",
+                            "answer": "Happiness",
+                            "fakeAnswers": [
+                                "Godly",
+                                "Right",
+                                "Gladness"
+                            ],
+                            "source": {
+                                "text": "Alma 41:10",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where was Ammon when Lamoni's servants reported the defending of the sheep?",
+                            "answer": "Preparing the horses and chariots",
+                            "fakeAnswers": [
+                                "Hiding",
+                                "Still watching the sheep",
+                                "Tending his wounds"
+                            ],
+                            "source": {
+                                "text": "Alma 18:8-9",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What French word is found in the Book of Mormon?",
+                            "answer": "Adieu",
+                            "fakeAnswers": [
+                                "oui",
+                                "livre",
+                                "vous "
+                            ],
+                            "source": {
+                                "text": "Jacob 7:27 ",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who was \"Hanged from a tree\" and then the tree cut down on top of him?",
+                            "answer": "Zemnarihah (A Gaddianton robber)",
+                            "fakeAnswers": [
+                                "Amalikiah",
+                                "Zoram",
+                                "Gaddianton"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 4:28",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many Onti's of silver did Zeezrom offer Amulek to deny a \"supreme being\"",
+                            "answer": "6",
+                            "fakeAnswers": [
+                                "10",
+                                "8",
+                                "3"
+                            ],
+                            "source": {
+                                "text": "Alma 11:22",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the three witnesses of the Book of Mormon.",
+                            "answer": "Oliver Cowdery, David Whitmer, Martin Harris",
+                            "fakeAnswers": [
+                                "Oliver Cowdery, David Whitmer, Emma Smith",
+                                "Oliver Cowdery, Joseph Smith Sr., Martin Harris",
+                                "Samuel Smith, David Whitmer, Martin Harris"
+                            ],
+                            "source": {
+                                "text": "Introduction to the Book of Mormon",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Laban had command of at least how many men?",
+                            "answer": "50",
+                            "fakeAnswers": [
+                                "10",
+                                "100",
+                                "5,000"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 3:31",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter are the births of Jacob and Joseph mentioned?",
+                            "answer": "1st Nephi 18:7",
+                            "fakeAnswers": [
+                                "1st Nephi 10:4",
+                                "1st Nephi 18:25",
+                                "2nd Nephi 2:8"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 18:7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "When Alma spoke to his children, how many chapters are dedicated to Shiblon?",
+                            "answer": "One",
+                            "fakeAnswers": [
+                                "Five",
+                                "Two",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "Alma 38",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How many Anti-Christ's are in the Book of Mormon?",
+                            "answer": "Two",
+                            "fakeAnswers": [
+                                "Five",
+                                "Seven",
+                                "Three"
+                            ],
+                            "source": {
+                                "text": "Alma 30, 3rd Nephi 7",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Who's family came with Lehi's into the wilderness?",
+                            "answer": "Ishmael's",
+                            "fakeAnswers": [
+                                "Joseph's",
+                                "Zedikiah's",
+                                "Ammon's"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 7:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where did the prophet Ether hide?",
+                            "answer": "A cave (cavity of a rock)",
+                            "fakeAnswers": [
+                                "In the mountains",
+                                "In the sewers",
+                                "He didn't hide"
+                            ],
+                            "source": {
+                                "text": "Ether 13:13",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter do we find Lehi's vision of the tree of life?",
+                            "answer": "1st Nephi 8",
+                            "fakeAnswers": [
+                                "1st Nephi 10",
+                                "1st Nephi 11",
+                                "1st Nephi 6"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 8",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "At the temple in which Nephite city did Christ visit the Book of Mormon people?",
+                            "answer": "Bountiful",
+                            "fakeAnswers": [
+                                "Moroni",
+                                "Gid",
+                                "Zarahemla"
+                            ],
+                            "source": {
+                                "text": "3rd Nephi 11:1",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which town and state was the Book of Mormon published?",
+                            "answer": "Palmyra, New York",
+                            "fakeAnswers": [
+                                "Harmony, New York",
+                                "Ontario County, New York",
+                                "Kirtland, Ohio"
+                            ],
+                            "source": {
+                                "text": "Book of Mormon Title Page",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How old was Mormon when he was made general of the Nephite army?",
+                            "answer": "16",
+                            "fakeAnswers": [
+                                "20",
+                                "15",
+                                "17"
+                            ],
+                            "source": {
+                                "text": "Mormon 2:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Why did the sons of Lehi return to Jerusalem after having gotten the brass plates?",
+                            "answer": "To get wives",
+                            "fakeAnswers": [
+                                "To get riches",
+                                "To get memories",
+                                "To get friends"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 7:2",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter does Nephi talk about Adam and Eve?",
+                            "answer": "2nd Nephi 2",
+                            "fakeAnswers": [
+                                "1st Nephi 32",
+                                "1st Nephi 23",
+                                "2nd Nephi 4"
+                            ],
+                            "source": {
+                                "text": "2nd Nephi 2:19",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which three books are NOT from the large or small plates of Nephi?",
+                            "answer": "Ether, Words of Mormon, Moroni",
+                            "fakeAnswers": [
+                                "Mormon, Ether, Moroni",
+                                "Alma, Words of Mormon, Moroni",
+                                "Ether, Jarom, Words of Mormon"
+                            ],
+                            "source": {
+                                "text": "A Brief Explanation about the Book of Mormon",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Where is Nephi's discourse on baptism?",
+                            "answer": "2nd Nephi 31",
+                            "fakeAnswers": [
+                                "2nd Nephi 29",
+                                "2nd Nephi 30",
+                                "2nd Nephi 32"
+                            ],
+                            "source": {
+                                "text": "2nd Nephi 31",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Name the 8 witnesses of the Book of Mormon",
+                            "answer": "Christian, Jacob, John, Peter (Jr), Whitmer. Hyrum Page, Joseph Smith Sr, Samuel H Smith, Hyrum Smith",
+                            "fakeAnswers": [
+                                "Christian, Aaron, John, Peter (Jr), Whitmer. Hyrum Page, Joseph Smith Sr, Samuel H page, Hyrum Smith",
+                                "Randall, Jacob, John, Josh (Jr), Whitmer. Hyrum Page, Joseph Smith Sr, Samuel R Smith, Hyrum Smith",
+                                "Christian, Joseph, John, Peter (Jr), Whitmer. Hyrum Page, Emma Smith, Samuel H Smith, Hyrum Smith"
+                            ],
+                            "source": {
+                                "text": "Book of Mormon Title Page",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter does Nephi exhort us to pray to know the truth of the gospel?",
+                            "answer": "2nd Nephi 32",
+                            "fakeAnswers": [
+                                "2nd Nephi 30",
+                                "2nd Nephi 27",
+                                "2nd Nephi 22"
+                            ],
+                            "source": {
+                                "text": "2nd Nephi 32",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How long did Joseph Smith have to wait from finding the plates to taking them home for translation?",
+                            "answer": "Four years",
+                            "fakeAnswers": [
+                                "One year",
+                                "Two years",
+                                "Three years"
+                            ],
+                            "source": {
+                                "text": "JSH 1:53",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter is Alma's discourse on faith?",
+                            "answer": "Alma 32",
+                            "fakeAnswers": [
+                                "Alma 33",
+                                "Alma 23",
+                                "Alma 60"
+                            ],
+                            "source": {
+                                "text": "Alma 32",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "How long was Moroni alone after the Nephites were destroyed?",
+                            "answer": "21 years",
+                            "fakeAnswers": [
+                                "18 years",
+                                "One year",
+                                "Ten years"
+                            ],
+                            "source": {
+                                "text": "BC dates at the bottom of the pages",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "In which chapter is Nephi's vision of the tree of life?",
+                            "answer": "1st Nephi 11",
+                            "fakeAnswers": [
+                                "1st Nephi 22",
+                                "2nd Nephi 5",
+                                "1st Nephi 17"
+                            ],
+                            "source": {
+                                "text": "1st Nephi 11",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "What is the name of the book missing because Martin Harris lost the pages?",
+                            "answer": "The book of Lehi",
+                            "fakeAnswers": [
+                                "The book of Joseph",
+                                "The book of Mormon II",
+                                "The book of Benjamin"
+                            ],
+                            "source": {
+                                "text": "D&C 10 heading",
+                                "url": ""
+                            }
+                        }, {
+                            "question": "Which day of the year did Teancum kill Amalikiah?",
+                            "answer": "New Years Eve",
+                            "fakeAnswers": [
+                                "Christmas Day",
+                                "4th Of July",
+                                "Easter"
+                            ],
+                            "source": {
+                                "text": "Alma 52:1",
+                                "url": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
