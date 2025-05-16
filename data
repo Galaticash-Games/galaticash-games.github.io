@@ -1,11 +1,12 @@
 {
-    "Questions": [{
-            "name": "Official",
+    "Data": {
+        "Official": {
             "color": "#FFFFFF",
-            "decks": [{
-                    "name": "Easy",
+            "decks": {
+                "Easy": {
                     "color": "#339922",
-                    "questions": [{
+                    "questions": [
+                        {
                             "question": "Nephi says there are \"But two churches only\" Who do they belong to?",
                             "answer": "Church of the Lamb of God and the Church of the Devil.",
                             "fakeAnswers": [
@@ -618,11 +619,15 @@
                                 "url": ""
                             }
                         }
+                    ],
+                    "highscores": [
+                        
                     ]
-                }, {
-                    "name": "Medium",
+                },
+                "Medium": {
                     "color": "#EE7722",
-                    "questions": [{
+                    "questions": [
+                        {
                             "question": "Who was Pahoran?",
                             "answer": "A Nephite chief judge",
                             "fakeAnswers": [
@@ -1343,11 +1348,15 @@
                                 "url": ""
                             }
                         }
+                    ],
+                    "highscores": [
+
                     ]
-                }, {
-                    "name": "Hard",
+                },
+                "Hard": {
                     "color": "#DD3322",
-                    "questions": [{
+                    "questions": [
+                        {
                             "question": "In which chapter do we find the allegory of the tame and wild olive trees?",
                             "answer": "Jacob 5",
                             "fakeAnswers": [
@@ -2104,9 +2113,15 @@
                                 "url": ""
                             }
                         }
+                    ],
+                    "highscores": [
+
                     ]
                 }
+            },
+            "highscores" : [
+
             ]
         }
-    ]
+    }
 }
